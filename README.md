@@ -20,7 +20,10 @@ I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London 
 - 👯 I’m looking to collaborate on ..
 - 💬 Ask me about ...
 -->
-- ⚡ Fun project: https://C4FA.github.io 
+- ⚡ Projects:
+  - ✨ https://PhyAAt.github.io (PhD work)
+  - ✨ https://SpKit.github.io  (Signal Processing library)
+  - ✨ https://C4FA.github.io (Fun project)
 - 📫 More about me:
    - Homepage: http://nikeshbajaj.in
    - Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
