@@ -24,7 +24,7 @@ I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London 
   - ✨ https://PhyAAt.github.io (PhD work)
   - ✨ https://SpKit.github.io  (Signal Processing library)
   - ✨ https://C4FA.github.io (Fun project)
-- 📫 More about me:
+- 📫 How to reach me:
    - Homepage: http://nikeshbajaj.in
    - Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
 
