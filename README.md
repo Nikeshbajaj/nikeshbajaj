@@ -13,7 +13,7 @@ I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London 
 - 🔊 My PhD work is on **PhyAAt: Physiology of Auditory Attention**, Check out here https://PhyAAt.github.io, all the data, code and files are shared
 - 🔊 I have a few libraries, you might find useful: **spkit** (https://SpKit.github.io), **phyaat** (https://PhyAAt.github.io), **regml**, **pylfsr** check all here -https://pypi.org/user/nikeshbajaj/ 
 - 🔊 I have **5+ years** of teaching experience, have been working on machine learning and signal processing for **10 years**.
-- 👯 I am also an consultant with **deeplearning.ai** for a few ***Coursera specializations***, and mentor for **NLP, GANs**, and **Tensorflow: Advaced Techniques**.
+- 👯 I am also an consultant with **deeplearning.ai** for a few ***Coursera specializations***, and mentor for **NLP, GANs**, and **Tensorflow: Advanced Techniques**.
 - 🌱 I’m currently leanring more of *Convax Optimization, Computational Neuroscience, Mathematics* 
 - 🤔 I’m always looking for help with *Computational Neuroscience methods*
 <!--
