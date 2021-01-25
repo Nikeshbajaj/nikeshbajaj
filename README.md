@@ -34,5 +34,6 @@ __________
   - ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
 - 📫 **How to reach me:**
    - Homepage: http://nikeshbajaj.in
+   - LinkedIn: https://www.linkedin.com/in/bajajnikesh/
    - Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
 
