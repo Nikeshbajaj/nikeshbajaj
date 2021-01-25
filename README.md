@@ -17,12 +17,12 @@ I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London 
 - 🔊 I have **5+ years** of teaching experience, have been working on machine learning and signal processing for **10 years**.
 - 👯 I'm also a consultant with [**deeplearning.ai**](https://www.deeplearning.ai/) for a few ***Coursera specializations***, and a mentor for **[NLP](https://www.coursera.org/specializations/natural-language-processing), [GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**, and **[Tensorflow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)** And a course:  [**Audio and Speech Processing for Music Applications**](https://www.coursera.org/learn/audio-signal-processing).
 - 🌱 I'm currently leanring more of *Convax Optimization, Computational Neuroscience, Mathematics* 
-- 🤔 I'm always looking for someone to learn from and with. (*Computational Neuroscience methods*)      
+- 🤔 I'm always looking for someone to learn from and with. (*Computational Neuroscience methods, Behaviour analysis, psychology* ~ all about Brain :) )      
 <!--
 - 👯 I’m looking to collaborate on ..
 - 💬 Ask me about ...
 -->
-- ⚡ Projects:
+- ⚡ **Projects:**
   - ✨ https://PhyAAt.github.io (PhD work)
   - ✨ https://SpKit.github.io  (Signal Processing library)
   - ✨ https://C4FA.github.io (Fun project)
