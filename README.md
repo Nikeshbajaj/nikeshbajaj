@@ -23,16 +23,16 @@ __________
 - 👯 I’m looking to collaborate on ..
 - 💬 Ask me about ...
 -->
+-------
 - ⚡ **Projects:**
   ---
   - ✨ https://PhyAAt.github.io (PhD work)
   - ✨ https://SpKit.github.io  (Signal Processing library)
   - ✨ https://C4FA.github.io (Fun project)
+  
 - 🌱**Publications:**
-  ---
   - ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
 - 📫 **How to reach me:**
-  ---
    - Homepage: http://nikeshbajaj.in
    - Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
 
