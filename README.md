@@ -1,10 +1,11 @@
 ### 👋
 
 <p align="center">
-  <samp>
-I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London in Machine Learning & Signal Processing.
-  </samp>
+  <samp>I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London in Machine Learning & Signal Processing.</samp>
 </p>
+
+__________
+
 <!--
 **Nikeshbajaj/nikeshbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,7 +14,7 @@ I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London 
 - 🔊 My PhD work is on **PhyAAt: Physiology of Auditory Attention**, Check out here https://PhyAAt.github.io, all the data, code and files are shared.
 - 🔊 I have a few libraries, you might find useful: [**SpKit**](https://SpKit.github.io), [**PhyAAt**](https://PhyAAt.github.io), [**RegML**](https://pypi.org/project/regml/), [**pyLFSR**](https://pypi.org/project/pylfsr/) check all here - [PyPI/nikeshbajaj](https://pypi.org/user/nikeshbajaj/).
 - 🔊 Recently, I was invited as a guest speaker by **deeplearning.ai** for **NLP Learing Community Event**, where I shared my journay to AI, my PhD work and current work on Decetion Detection. Take a look - [**YouTube**](https://www.youtube.com/watch?v=vMnBE9FF9vg)
-
+-------
 - 🔊 I have **5+ years** of teaching experience, have been working on machine learning and signal processing for **10 years**.
 - 👯 I'm also a consultant with [**deeplearning.ai**](https://www.deeplearning.ai/) for a few ***Coursera specializations***, and a mentor for **[NLP](https://www.coursera.org/specializations/natural-language-processing), [GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**, and **[Tensorflow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)** And a course:  [**Audio and Speech Processing for Music Applications**](https://www.coursera.org/learn/audio-signal-processing).
 - 🌱 I'm currently leanring more of *Convax Optimization, Computational Neuroscience, Mathematics* 
@@ -23,12 +24,15 @@ I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London 
 - 💬 Ask me about ...
 -->
 - ⚡ **Projects:**
+  ---
   - ✨ https://PhyAAt.github.io (PhD work)
   - ✨ https://SpKit.github.io  (Signal Processing library)
   - ✨ https://C4FA.github.io (Fun project)
-- 🌱Publications:
+- 🌱**Publications:**
+  ---
   - ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
-- 📫 How to reach me:
+- 📫 **How to reach me:**
+  ---
    - Homepage: http://nikeshbajaj.in
    - Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
 
