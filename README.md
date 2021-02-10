@@ -21,12 +21,12 @@ __________
 - 🤔 I'm always looking for someone to learn from and with. (*Computational Neuroscience methods, Behaviour analysis, psychology* ~ all about Brain :) )      
 <!--
 - 👯 I’m looking to collaborate on ..
-- 💬 Ask me about ...
+- 💬 Ask me about ...https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png
 -->
 -------
 - ⚡ **Projects:**
   ---
-  - ✨ https://PhyAAt.github.io (PhD work)
+  - ✨ https://PhyAAt.github.io (PhD work) ![logo](https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png =20px)
   - ✨ https://SpKit.github.io  (Signal Processing library)
   - ✨ https://C4FA.github.io (Fun project)
   
