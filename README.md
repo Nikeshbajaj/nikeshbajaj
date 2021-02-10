@@ -27,7 +27,7 @@ __________
 - ⚡ **Projects:**
   ---
   - ✨ https://PhyAAt.github.io (PhD work)
-  - ✨ https://SpKit.github.io  (Signal Processing library)
+  - ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)
   - ✨ https://C4FA.github.io (Fun project)
   
   
