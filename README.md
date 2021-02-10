@@ -26,7 +26,7 @@ __________
 -------
 - ⚡ **Projects:**
   ---
-  - ✨ https://PhyAAt.github.io (PhD work) ![logo](https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png =20px)
+  - ✨ https://PhyAAt.github.io (PhD work) [<img style="float: right;" src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png" width="50"/>]
   - ✨ https://SpKit.github.io  (Signal Processing library)
   - ✨ https://C4FA.github.io (Fun project)
   
