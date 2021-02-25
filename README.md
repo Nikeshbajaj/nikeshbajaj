@@ -27,15 +27,7 @@ __________
   - ✨ https://PhyAAt.github.io (PhD work)
   - ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)
   - ✨ https://C4FA.github.io (Fun project)
-
-
-- ⚡ **Projects:**
-  ---
-  - ✨ https://PhyAAt.github.io (PhD work)
-  - ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)
-  - ✨ https://C4FA.github.io (Fun project)
-  
-   - [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="50"/>](https://phyaat.github.io)
+  - [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="50"/>](https://phyaat.github.io)
   [<img src="https://github.com/spkit/spkit.github.io/blob/master/_static/logo.png?raw=true" height="50"/>](https://spkit.github.io)
   [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
 
