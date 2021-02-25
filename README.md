@@ -24,6 +24,12 @@ __________
 -->
 -------
 - ⚡ **Projects:**
+  - ✨ https://PhyAAt.github.io (PhD work)
+  - ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)
+  - ✨ https://C4FA.github.io (Fun project)
+
+
+- ⚡ **Projects:**
   ---
   - ✨ https://PhyAAt.github.io (PhD work)
   - ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)
@@ -33,5 +39,6 @@ __________
   [<img src="https://github.com/spkit/spkit.github.io/blob/master/_static/logo.png?raw=true" height="50"/>](https://spkit.github.io)
   [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
 
-- 🌱**Publications:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en) 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
+- 🌱**Publications:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
+- 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
 
