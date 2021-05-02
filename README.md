@@ -32,5 +32,5 @@ __________
   [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
 
 - 🌱**Publications:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
-- 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj@gmail.com, n.bajaj@uel.ac.uk, n.bajaj@qmul.ac.uk
+- 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj@gmail.com, n.bajaj@qmul.ac.uk
 
