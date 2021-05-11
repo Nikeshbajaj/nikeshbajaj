@@ -9,8 +9,9 @@ __________
 <!--
 **Nikeshbajaj/nikeshbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- 🔭 I'm currently working on Behavioral Analytics: **Deception Detection** in conversation at [**University of East London**](https://www.uel.ac.uk/staff/b/nikesh-bajaj), as a postdoctoral research fellow.
+<!--
+- 🔭 I'm currently working on Behavioral Analytics: **Deception Detection** in conversation at [**University of East London**](https://www.uel.ac.uk), as a postdoctoral research fellow.
+-->
 - 🔊 My PhD work is on **PhyAAt: Physiology of Auditory Attention**, Check out here https://PhyAAt.github.io, all the data, code and files are shared.
 - 🔊 I have a few libraries, you might find useful: [**SpKit**](https://SpKit.github.io), [**PhyAAt**](https://PhyAAt.github.io), [**RegML**](https://pypi.org/project/regml/), [**pyLFSR**](https://pypi.org/project/pylfsr/) check all here - [PyPI/nikeshbajaj](https://pypi.org/user/nikeshbajaj/).
 - 🔊 Recently, I was invited as a guest speaker by **deeplearning.ai** for **NLP Learing Community Event**, where I shared my journay to AI, my PhD work and current work on Decetion Detection. Take a look - [**YouTube**](https://www.youtube.com/watch?v=vMnBE9FF9vg)
