@@ -35,4 +35,4 @@ __________
 - 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj@gmail.com, n.bajaj@qmul.ac.uk
 
 
-![NIkesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshbajaj&show_icons=true)
+![NIkesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshbajaj&show_icons=true&hide=prs)
