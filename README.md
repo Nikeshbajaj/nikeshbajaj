@@ -1,7 +1,7 @@
 ### 👋
 
 <p align="center">
-  <samp>I'm Nikesh Bajaj, recently finished my PhD from Queen Mary University of London in Machine Learning & Signal Processing.</samp>
+  <samp>I'm Nikesh Bajaj, recently joined Imperial College London as a Research Associate.</samp>
 </p>
 
 __________
