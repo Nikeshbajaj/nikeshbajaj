@@ -30,10 +30,10 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 
 | **Libraries**   | **Total downloads** |**Description** |
 | -----------     | ----------- |----------- | 
-| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   |   Signal Processing Toolkit - https://SpKit.github.io  [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="20"/>](https://spkit.github.io)|
+| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   |   **S**ignal **P**rocessing Tool**Kit** - https://SpKit.github.io  [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="20"/>](https://spkit.github.io)|
 | ***phyaat***  | [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat) | **Phy**siology of **A**uditory **At**tention - https://PhyAAt.github.io (PhD work) [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="20"/>](https://phyaat.github.io)|
-| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |Linear Feedback Shift Register - https://lfsr.readthedocs.io/en/latest/ |
-| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |Regularization Techniques for Machine Learning - https://pypi.org/project/regml/ |
+| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |**L**inear **F**eedback **S**hift **R**egister - https://lfsr.readthedocs.io/en/latest/ |
+| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |**Reg**ularization Techniques for **M**achine **L**earning - https://pypi.org/project/regml/ |
 
 ## ⚡ **Projects/ Publications/ Patent:**
 - ✨ https://PhyAAt.github.io (PhD work)
