@@ -39,7 +39,7 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 
 | **Libraries**   | **Total downloads** |**link** |
 | -----------     | ----------- |----------- | 
-| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   | ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library) [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="10"/>](https://spkit.github.io)|
+| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   | ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library) [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="20"/>](https://spkit.github.io)|
 | ***phyaat***  | [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat) |  ✨ https://PhyAAt.github.io (PhD work)|
 | ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |**Total downloads** |
 | ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |**Total downloads** |
