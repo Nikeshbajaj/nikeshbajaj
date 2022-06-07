@@ -36,6 +36,7 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
   
   
 - ⚡ **Python Libraries:**
+
 | Syntax      | Total downloads |
 | ----------- | ----------- |
 | **spkit**   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)       |
