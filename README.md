@@ -34,8 +34,11 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
   [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="50"/>](https://spkit.github.io)
   [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
   
-  
-  - [![Downloads](https://static.pepy.tech/personalized-badge/spkit?period=total&units=international_system&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/spkit)
+ - ⚡ **Python Libraries:**
+  - spkit: [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)
+  - pylfsr: [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)
+  - phyaat: [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat)
+  - regml: [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)
 
 - 🌱**Publications:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
 - 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj[AT]gmail[dot]com ,n[dot]bajaj[AT]imperial[dot]ac[dot]uk,n[dot]bajaj[AT]qmul[dot]ac[dot]uk
