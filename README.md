@@ -34,7 +34,17 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
   [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="50"/>](https://spkit.github.io)
   [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
   
- - ⚡ **Python Libraries:**
+  
+- ⚡ **Python Libraries:**
+| Syntax      | Total downloads |
+| ----------- | ----------- |
+| **spkit**   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)       |
+| **phyaat**  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)     |
+| **pylfsr**  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)|
+| **regml**  | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml) |
+
+
+ 
   - spkit: [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)
   - pylfsr: [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)
   - phyaat: [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat)
