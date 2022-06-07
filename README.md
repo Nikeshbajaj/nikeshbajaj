@@ -37,19 +37,14 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
   
 - ⚡ **Python Libraries:**
 
-| Syntax      | Total downloads |
-| ----------- | ----------- |
-| **spkit**   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)       |
-| **phyaat**  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)     |
-| **pylfsr**  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)|
-| **regml**  | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml) |
+| **Libraries**   | **Total downloads** |
+| -----------     | ----------- |
+| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   |
+| ***phyaat***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |
+| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |
+| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |
 
 
- 
-  - spkit: [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)
-  - pylfsr: [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr)
-  - phyaat: [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat)
-  - regml: [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)
 
 - 🌱**Publications:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
 - 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj[AT]gmail[dot]com ,n[dot]bajaj[AT]imperial[dot]ac[dot]uk,n[dot]bajaj[AT]qmul[dot]ac[dot]uk
