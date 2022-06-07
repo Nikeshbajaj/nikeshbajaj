@@ -35,17 +35,17 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 | ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |Linear Feedback Shift Register - https://lfsr.readthedocs.io/en/latest/ |
 | ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |Regularization Techniques for Machine Learning - https://pypi.org/project/regml/ |
 
-## ⚡ **Projects:**
+## ⚡ **Projects/ Publications/ Patent:**
 - ✨ https://PhyAAt.github.io (PhD work)
 - ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)
 - ✨ https://C4FA.github.io (Fun project)
 - [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="50"/>](https://phyaat.github.io)
 [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="50"/>](https://spkit.github.io)
 [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
-  
-  
-- 🌱**Publications:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
-- 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj[AT]gmail[dot]com ,n[dot]bajaj[AT]imperial[dot]ac[dot]uk,n[dot]bajaj[AT]qmul[dot]ac[dot]uk
-
+    
+- 🌱**Publications/patent:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
 
 ![NIkesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshbajaj&show_icons=true&hide=prs)
+
+- 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj[AT]gmail[dot]com ,n[dot]bajaj[AT]imperial[dot]ac[dot]uk,n[dot]bajaj[AT]qmul[dot]ac[dot]uk
+
