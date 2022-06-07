@@ -37,12 +37,12 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
   
 - ⚡ **Python Libraries:**
 
-| **Libraries**   | **Total downloads** |
-| -----------     | ----------- |
-| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   |
-| ***phyaat***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |
-| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |
-| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |
+| **Libraries**   | **Total downloads** |**link** |
+| -----------     | ----------- |----------- | 
+| ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   | ✨ https://SpKit.github.io  (Signal Processing & Machine Learning library)|
+| ***phyaat***  | [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat) |  ✨ https://PhyAAt.github.io (PhD work)|
+| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |**Total downloads** |
+| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |**Total downloads** |
 
 
 
