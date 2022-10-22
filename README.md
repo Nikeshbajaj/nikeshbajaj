@@ -4,6 +4,7 @@
   <samp>I'm Nikesh Bajaj, recently joined Imperial College London as a Research Associate.</samp>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /> </p>
 __________
 
 <!--
