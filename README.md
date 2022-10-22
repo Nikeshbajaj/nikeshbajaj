@@ -4,7 +4,7 @@
   <samp>I'm Nikesh Bajaj, recently joined Imperial College London as a Research Associate.</samp>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /> </p>
+
 __________
 
 <!--
@@ -49,4 +49,5 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 ![NIkesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeshbajaj&show_icons=true&hide=prs)
 
 - 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj[AT]gmail[dot]com ,n[dot]bajaj[AT]imperial[dot]ac[dot]uk,n[dot]bajaj[AT]qmul[dot]ac[dot]uk
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /> </p>
 
