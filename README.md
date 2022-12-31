@@ -27,6 +27,8 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 - 💬 Ask me about ...https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png
 -->
 -------
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /> <b>Since 22/10/2022<b></p>
+
 ## ⚡ **Python Open-Source Libraries:**
 
 | **Libraries**   | **Total downloads** |**Description** |
@@ -35,6 +37,8 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 | ***phyaat***  | [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat) | **Phy**siology of **A**uditory **At**tention - https://PhyAAt.github.io (PhD work) [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="20"/>](https://phyaat.github.io)|
 | ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |**L**inear **F**eedback **S**hift **R**egister - https://lfsr.readthedocs.io/en/latest/ |
 | ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |**Reg**ularization Techniques for **M**achine **L**earning - https://pypi.org/project/regml/ |
+
+
 
 ## ⚡ **Projects/ Publications/ Patent:**
 - ✨ https://PhyAAt.github.io (PhD work)
@@ -50,5 +54,5 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 
 - 📫 **How to reach me:** &bull; Homepage: http://nikeshbajaj.in &bull; LinkedIn: https://www.linkedin.com/in/bajajnikesh/  &bull; Email: nikkeshbajaj[AT]gmail[dot]com ,n[dot]bajaj[AT]imperial[dot]ac[dot]uk,n[dot]bajaj[AT]qmul[dot]ac[dot]uk
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /> <b>Since 22/10/2022<b></p>
+
 
