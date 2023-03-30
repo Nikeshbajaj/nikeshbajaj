@@ -28,7 +28,7 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 - 💬 Ask me about ...https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png
 -->
 -------
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /> <b>Since 22/10/2022<b></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /></p>
 
 ## ⚡ **Python Open-Source Libraries:**
 
