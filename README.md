@@ -1,7 +1,8 @@
 ### 👋
 
 <p align="center">
-  <samp>I'm Nikesh Bajaj, recently joined Imperial College London as a Research Associate.</samp>
+  <samp>I'm Nikesh Bajaj, recently joined Queen Mary University of London, as a Lecturer. </samp><br>
+  <samp>and working with Imperial College London as an Honorary Research Associate.</samp>
 </p>
 
 
