@@ -36,17 +36,19 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 | -----------     | ----------- |----------- | 
 | ***spkit***   | [![Downloads](https://pepy.tech/badge/spkit)](https://pepy.tech/project/spkit)   |   **S**ignal **P**rocessing Tool**Kit** - https://SpKit.github.io  [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="20"/>](https://spkit.github.io)|
 | ***phyaat***  | [![Downloads](https://pepy.tech/badge/phyaat)](https://pepy.tech/project/phyaat) | **Phy**siology of **A**uditory **At**tention - https://PhyAAt.github.io (PhD work) [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="20"/>](https://phyaat.github.io)|
-| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |**L**inear **F**eedback **S**hift **R**egister - https://lfsr.readthedocs.io/ |
-| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |**Reg**ularization Techniques for **M**achine **L**earning - https://pypi.org/project/regml/ |
+| ***pylfsr***  | [![Downloads](https://pepy.tech/badge/pylfsr)](https://pepy.tech/project/pylfsr) |**L**inear **F**eedback **S**hift **R**egister - https://PyLFSR.github.io/ [<img src="https://github.com/Nikeshbajaj/Linear_Feedback_Shift_Register/blob/master/images/pylfsr_logo.png?raw=true" height="20"/>](https://PyLFSR.github.io)|
+| ***regml***   | [![Downloads](https://pepy.tech/badge/regml)](https://pepy.tech/project/regml)   |**Reg**ularization Techniques for **M**achine **L**earning - https://nikeshbajaj.github.io/Regularization_for_Machine_Learning/ |
 
 
 
 ## ⚡ **Projects/ Publications/ Patent:**
 - ✨ https://PhyAAt.github.io (PhD work)
 - ✨ https://SpKit.github.io  (Signal Processing techniques & Machine Learning library)
+- ✨ https://PyLFSR.github.io  (Linear Feedback Shift Register: Python lib)
 - ✨ https://C4FA.github.io (Fun project)
 - [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png?raw=true" height="50"/>](https://phyaat.github.io)
 [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="50"/>](https://spkit.github.io)
+[<img src="https://github.com/Nikeshbajaj/Linear_Feedback_Shift_Register/blob/master/images/pylfsr_logo.png?raw=true" height="50"/>](https://PyLFSR.github.io)
 [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io)
     
 - 🌱**Publications/patent:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
