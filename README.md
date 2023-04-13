@@ -15,7 +15,7 @@ __________
 - 🔭 I'm currently working on Behavioral Analytics: **Deception Detection** in conversation at [**University of East London**](https://www.uel.ac.uk), as a postdoctoral research fellow.
 -->
 - 🔊 My PhD work is on **PhyAAt: Physiology of Auditory Attention**, Check out here https://PhyAAt.github.io, all the data, code and files are shared. Recieved in 2019, from Queen Mary University of London.
-- 🔊 I have a few libraries, you might find useful: [**SpKit**](https://SpKit.github.io), [**PhyAAt**](https://PhyAAt.github.io), [**RegML**](https://pypi.org/project/regml/), [**pyLFSR**](https://pypi.org/project/pylfsr/) check all here - [PyPI/nikeshbajaj](https://pypi.org/user/nikeshbajaj/).
+- 🔊 I have a few libraries, you might find useful: [**SpKit**](https://SpKit.github.io), [**PhyAAt**](https://PhyAAt.github.io), [**RegML**](https://pypi.org/project/regml/), [**PyLFSR**](https://pypi.org/project/pylfsr/) check all here - [PyPI/nikeshbajaj](https://pypi.org/user/nikeshbajaj/).
 - 🔊 Recently, I was invited as a guest speaker by **deeplearning.ai** for **NLP Learing Community Event**, where I shared my journay to AI, my PhD work and current work on Decetion Detection. Take a look - [**YouTube**](https://www.youtube.com/watch?v=vMnBE9FF9vg)
 <!--
 - 🔊 I have **5+ years** of teaching experience, have been working on machine learning and signal processing for **10 years**.
