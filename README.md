@@ -27,6 +27,16 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 - 👯 I’m looking to collaborate on ..
 - 💬 Ask me about ...https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo%20-%20Copy.png
 -->
+
+<div align="center">
+  
+[<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo_name.png?raw=true" height="100"/>](https://phyaat.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="100"/>](https://spkit.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/Nikeshbajaj/Linear_Feedback_Shift_Register/blob/master/images/pylfsr_logo.png?raw=true" height="100"/>](https://PyLFSR.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="100"/>](https://C4FA.github.io)
+
+</div>
+
 -------
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nikeshbajaj" alt="nikeshbajaj" /></p>
 
