@@ -1,7 +1,7 @@
 ### 👋
 
 <p align="center">
-  <samp>I'm Nikesh Bajaj, recently joined Queen Mary University of London, as a Lecturer. </samp><br>
+  <samp>I'm Nikesh Bajaj, recently joined Queen Mary University of London, as a Lecturer (~ Asst. Prof.). </samp><br>
   <samp>and working with Imperial College London as an Honorary Research Associate.</samp>
 </p>
 
