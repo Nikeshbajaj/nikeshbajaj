@@ -38,6 +38,7 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png?raw=true" height="100"/>](https://MLEndDatasets.github.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/PMLBook/.github/main/book_cover_3d.png?raw=true" height="100"/>](https://PMLBook.github.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="100"/>](https://C4FA.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="nb_logo.png?raw=true" height="100"/>](https://nikeshbajaj.in)
 
 </div>
 
