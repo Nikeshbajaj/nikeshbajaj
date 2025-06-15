@@ -33,12 +33,14 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 [<img src="https://github.com/PhyAAt/PhyAAt.github.io/blob/master/assets/logos/phyaat_logo_name.png?raw=true" height="120"/>](https://phyaat.github.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="100"/>](https://spkit.github.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/Nikeshbajaj/Linear_Feedback_Shift_Register/blob/master/images/pylfsr_logo.png?raw=true" height="100"/>](https://PyLFSR.github.io)
-
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png?raw=true" height="100"/>](https://MLEndDatasets.github.io)
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/PMLBook/.github/main/book_cover_3d.png?raw=true" height="100"/>](https://PMLBook.github.io)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://JBEval.github.io/images/logo.png?raw=true" height="100"/>](https://JBEval.github.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="100"/>](https://C4FA.github.io)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="nb_logo.png?raw=true" height="100"/>](https://nikeshbajaj.in)
+
 
 </div>
 
@@ -68,6 +70,9 @@ I'm always looking for someone to learn from/with these. (*Computational Neurosc
 [<img src="https://github.com/spkit/spkit.github.io/blob/master/assets/logo/logo.png?raw=true" height="50"/>](https://spkit.github.io)
 [<img src="https://github.com/Nikeshbajaj/Linear_Feedback_Shift_Register/blob/master/images/pylfsr_logo.png?raw=true" height="50"/>](https://PyLFSR.github.io)
 [<img src="https://github.com/c4fa/c4fa.github.io/blob/master/_images/logo.png?raw=true" height="50"/>](https://C4FA.github.io) [<img src="https://raw.githubusercontent.com/PMLBook/.github/main/book_cover_3d.png?raw=true" height="50"/>](https://PMLBook.github.io) [<img src="https://MLEndDatasets.github.io/assets/imgs/mlend_logo.png?raw=true" height="50"/>](https://MLEndDatasets.github.io)
+[<img src="https://JBEval.github.io/images/logo.png?raw=true" height="50"/>](https://JBEval.github.io)
+
+
     
 - 🌱**Publications/patent:** ✨ [Google Scholar](https://scholar.google.co.in/citations?user=UEOU4boAAAAJ&hl=en)
 
