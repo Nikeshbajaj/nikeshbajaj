@@ -21,7 +21,7 @@ __________
 - 🔊 I have **5+ years** of teaching experience, have been working on machine learning and signal processing for **10 years**.
 -->
 - 👯 I'm also a consultant with [**deeplearning.ai**](https://www.deeplearning.ai/) for a few ***Coursera specializations***, and a mentor for **[NLP](https://www.coursera.org/specializations/natural-language-processing), [GANs](https://www.coursera.org/specializations/generative-adversarial-networks-gans)**, and **[Tensorflow: Advanced Techniques](https://www.coursera.org/specializations/tensorflow-advanced-techniques)** And a course:  [**Audio and Speech Processing for Music Applications**](https://www.coursera.org/learn/audio-signal-processing).
-- 🌱 I'm currently leanring more of ***Convax Optimization, Computational Neuroscience, Mathematics***. 
+- 🌱 I'm currently leanring MORE of ***Convax Optimization, Computational Neuroscience, Mathematics [it's never enough..]***. 
 <!--
 I'm always looking for someone to learn from/with these. (*Computational Neuroscience methods, Behaviour analysis, psychology* ~ all about Brain :) ) 
 - 👯 I’m looking to collaborate on ..
